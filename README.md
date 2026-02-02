@@ -3,6 +3,12 @@
 Demo link 🔗 : https://bhaskern55.github.io/web-quiz-game/
 
 An interactive quiz game developed using HTML, CSS, and JavaScript. The app features multiple-choice questions, score calculation with positive and negative marking, and a clean, responsive user interface.
+
+## Disclaimer
+This project is a front-end UI demo created for learning and portfolio purposes.
+It does NOT collect, store, or process any user data.
+No backend or real authentication is implemented.
+
 # JavaScript Quiz Game
 
 An interactive quiz application built using **HTML, CSS, and JavaScript**.  
