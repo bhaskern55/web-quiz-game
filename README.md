@@ -56,4 +56,4 @@ Final score is displayed dynamically during the quiz.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure.
